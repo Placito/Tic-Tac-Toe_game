@@ -1,4 +1,4 @@
-Markup: [heading-1](#heading-1 "Tic Tac Toe game with Vanilla JS")
+Markup: [Tic Tac Toe game with Vanilla JS]
 
 is a simple game with HTML, CSS and Javascript.
 made with the boilerplat - Vanilla JS
