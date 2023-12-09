@@ -1,4 +1,4 @@
-Markup: [Tic Tac Toe game with Vanilla JS]
+## Tic Tac Toe game with Vanilla JS
 
 is a simple game with HTML, CSS and Javascript.
 made with the boilerplat - Vanilla JS
