@@ -1,7 +1,7 @@
 # <a href="#my-heading">Tic Tac Toe game with Vanilla JS</a> #
 
 is a simple game with HTML, CSS and Javascript.
-made with the boilerplat - Vanilla JS
+made with the boilerplate - Vanilla JS
 
 ## The printScreen of the game main page ##
 
