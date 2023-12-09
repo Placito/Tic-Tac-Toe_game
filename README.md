@@ -1,4 +1,4 @@
-## Tic Tac Toe game with Vanilla JS <a href="#my-heading">My Heading</a>
+## <a href="#my-heading">Tic Tac Toe game with Vanilla JS</a>
 
 is a simple game with HTML, CSS and Javascript.
 made with the boilerplat - Vanilla JS
